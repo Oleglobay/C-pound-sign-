@@ -1,0 +1,45 @@
+2.Створити Клас Box та задати йому поля публічного типу: length (довжина), width (ширина),  height (висота), 
+задати їм значення в  головному методі та повернути їхній об’єм з допомогою оператора повернення return 
+метода головного класу, також створити ще один об’єкт класу і зробити аналогічні дії змінивши дані його полів.
+
+using System; 
+using System.Collections.Generic;
+using System.Linq;  
+using System.Text; 
+using System.Threading.Tasks; 
+
+namespace Programmer 
+{
+    public class Box
+    {
+        public double length;//довжина
+        public double width;//ширина
+        public double heigth;//висота
+
+        public double Obyem()//метод що повертає об'єм
+        {
+            return heigth * length * width;//повернення об'єму 
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {//створити новий об'єкт класу/типу "Box"
+            Box myBox = new Box();
+            myBox.width = 2;//"dot operator" (крапка)
+            myBox.heigth = 3;
+            myBox.length = 4;
+
+            double obyem = myBox.Obyem();
+            Console.WriteLine(obyem);
+
+            Box myBox2 = new Box();
+            myBox2.width = 1;
+            myBox2.heigth = 2;
+            myBox2.length = 3;
+            Console.WriteLine(myBox2.Obyem());
+            Console.ReadKey();
+        }
+    }
+}
+

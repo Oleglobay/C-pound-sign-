@@ -1,0 +1,15 @@
+D:\Курси програмування\Oleg Lobay\C++\pt 1\кулькулятор\кулькулятор\bin\Debug\кулькулятор.exe.config
+D:\Курси програмування\Oleg Lobay\C++\pt 1\кулькулятор\кулькулятор\bin\Debug\кулькулятор.exe
+D:\Курси програмування\Oleg Lobay\C++\pt 1\кулькулятор\кулькулятор\bin\Debug\кулькулятор.pdb
+D:\Курси програмування\Oleg Lobay\C++\pt 1\кулькулятор\кулькулятор\obj\Debug\кулькулятор.csproj.AssemblyReference.cache
+D:\Курси програмування\Oleg Lobay\C++\pt 1\кулькулятор\кулькулятор\obj\Debug\кулькулятор.csproj.CoreCompileInputs.cache
+D:\Курси програмування\Oleg Lobay\C++\pt 1\кулькулятор\кулькулятор\obj\Debug\кулькулятор.exe
+D:\Курси програмування\Oleg Lobay\C++\pt 1\кулькулятор\кулькулятор\obj\Debug\кулькулятор.pdb
+C:\Users\olehl\Desktop\C++ home\pt 1\кулькулятор\кулькулятор\bin\Debug\кулькулятор.exe.config
+C:\Users\olehl\Desktop\C++ home\pt 1\кулькулятор\кулькулятор\bin\Debug\кулькулятор.exe
+C:\Users\olehl\Desktop\C++ home\pt 1\кулькулятор\кулькулятор\bin\Debug\кулькулятор.pdb
+C:\Users\olehl\Desktop\C++ home\pt 1\кулькулятор\кулькулятор\obj\Debug\кулькулятор.csproj.AssemblyReference.cache
+C:\Users\olehl\Desktop\C++ home\pt 1\кулькулятор\кулькулятор\obj\Debug\кулькулятор.csproj.SuggestedBindingRedirects.cache
+C:\Users\olehl\Desktop\C++ home\pt 1\кулькулятор\кулькулятор\obj\Debug\кулькулятор.csproj.CoreCompileInputs.cache
+C:\Users\olehl\Desktop\C++ home\pt 1\кулькулятор\кулькулятор\obj\Debug\кулькулятор.exe
+C:\Users\olehl\Desktop\C++ home\pt 1\кулькулятор\кулькулятор\obj\Debug\кулькулятор.pdb

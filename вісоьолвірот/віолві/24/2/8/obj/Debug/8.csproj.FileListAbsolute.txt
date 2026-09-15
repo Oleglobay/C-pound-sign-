@@ -1,0 +1,5 @@
+D:\Курси програмування\Шевчук Микола\C#\24\2\8\obj\Debug\_1.Form1.resources
+D:\Курси програмування\Шевчук Микола\C#\24\2\8\obj\Debug\_1.Form2.resources
+D:\Курси програмування\Шевчук Микола\C#\24\2\8\obj\Debug\_8.Properties.Resources.resources
+D:\Курси програмування\Шевчук Микола\C#\24\2\8\obj\Debug\8.csproj.GenerateResource.cache
+D:\Курси програмування\Шевчук Микола\C#\24\2\8\obj\Debug\8.csproj.CoreCompileInputs.cache

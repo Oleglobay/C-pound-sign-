@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Database1DataSet1" targetNamespace="http://tempuri.org/Database1DataSet1.xsd" xmlns:mstns="http://tempuri.org/Database1DataSet1.xsd" xmlns="http://tempuri.org/Database1DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Database1ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Database1ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.WindowsFormsApp1.Properties.Settings.GlobalReference.Default.Database1ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="View_1TableAdapter" GeneratorDataComponentClassName="View_1TableAdapter" Name="View_1" UserDataComponentName="View_1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Database1ConnectionString (Settings)" DbObjectName="dbo.View_1" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Num_book, Name, [[Group]]], Year FROM dbo.View_1</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Num_book" DataSetColumn="Num_book" />
+              <Mapping SourceColumn="Name" DataSetColumn="Name" />
+              <Mapping SourceColumn="[Group]" DataSetColumn="[Group]" />
+              <Mapping SourceColumn="Year" DataSetColumn="Year" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Database1DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="Database1DataSet1" msprop:Generator_UserDSName="Database1DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="View_1" msprop:Generator_TableClassName="View_1DataTable" msprop:Generator_TableVarName="tableView_1" msprop:Generator_TablePropName="View_1" msprop:Generator_RowDeletingName="View_1RowDeleting" msprop:Generator_RowChangingName="View_1RowChanging" msprop:Generator_RowEvHandlerName="View_1RowChangeEventHandler" msprop:Generator_RowDeletedName="View_1RowDeleted" msprop:Generator_UserTableName="View_1" msprop:Generator_RowChangedName="View_1RowChanged" msprop:Generator_RowEvArgName="View_1RowChangeEvent" msprop:Generator_RowClassName="View_1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Num_book" msprop:Generator_ColumnVarNameInTable="columnNum_book" msprop:Generator_ColumnPropNameInRow="Num_book" msprop:Generator_ColumnPropNameInTable="Num_bookColumn" msprop:Generator_UserColumnName="Num_book">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnPropNameInTable="NameColumn" msprop:Generator_UserColumnName="Name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="_x005B_Group_x005D_" msprop:Generator_ColumnVarNameInTable="_column_Group_" msprop:Generator_ColumnPropNameInRow="__Group_" msprop:Generator_ColumnPropNameInTable="__Group_Column" msprop:Generator_UserColumnName="[Group]" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Year" msprop:Generator_ColumnVarNameInTable="columnYear" msprop:Generator_ColumnPropNameInRow="Year" msprop:Generator_ColumnPropNameInTable="YearColumn" msprop:Generator_UserColumnName="Year" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:View_1" />
+      <xs:field xpath="mstns:Num_book" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

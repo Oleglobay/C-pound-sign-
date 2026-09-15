@@ -1,0 +1,5 @@
+D:\Курси програмування\Oleg Lobay\C#\pt 23\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.AssemblyReference.cache
+D:\Курси програмування\Oleg Lobay\C#\pt 23\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.Form1.resources
+D:\Курси програмування\Oleg Lobay\C#\pt 23\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.Properties.Resources.resources
+D:\Курси програмування\Oleg Lobay\C#\pt 23\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.GenerateResource.cache
+D:\Курси програмування\Oleg Lobay\C#\pt 23\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.CoreCompileInputs.cache

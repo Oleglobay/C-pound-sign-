@@ -1,0 +1,2 @@
+D:\Курси програмування\Oleg Lobay\C#\pt 20\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+D:\Курси програмування\Oleg Lobay\C#\pt 20\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache

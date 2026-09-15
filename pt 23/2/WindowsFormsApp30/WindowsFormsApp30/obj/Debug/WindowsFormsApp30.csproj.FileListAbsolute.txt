@@ -1,0 +1,10 @@
+D:\Курси програмування\Oleg Lobay\C#\WindowsFormsApp30\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.csproj.AssemblyReference.cache
+D:\Курси програмування\Oleg Lobay\C#\WindowsFormsApp30\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.Form1.resources
+D:\Курси програмування\Oleg Lobay\C#\WindowsFormsApp30\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.Properties.Resources.resources
+D:\Курси програмування\Oleg Lobay\C#\WindowsFormsApp30\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.csproj.GenerateResource.cache
+D:\Курси програмування\Oleg Lobay\C#\WindowsFormsApp30\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.csproj.CoreCompileInputs.cache
+D:\Курси програмування\Oleg Lobay\C#\pt 23\WindowsFormsApp30\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.csproj.AssemblyReference.cache
+D:\Курси програмування\Oleg Lobay\C#\pt 23\WindowsFormsApp30\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.Form1.resources
+D:\Курси програмування\Oleg Lobay\C#\pt 23\WindowsFormsApp30\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.Properties.Resources.resources
+D:\Курси програмування\Oleg Lobay\C#\pt 23\WindowsFormsApp30\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.csproj.GenerateResource.cache
+D:\Курси програмування\Oleg Lobay\C#\pt 23\WindowsFormsApp30\WindowsFormsApp30\obj\Debug\WindowsFormsApp30.csproj.CoreCompileInputs.cache

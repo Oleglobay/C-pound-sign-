@@ -1,0 +1,7 @@
+D:\Курси програмування\Oleg Lobay\C#\pt 20\dhbvdshvfhsd\dhbvdshvfhsd\bin\Debug\dhbvdshvfhsd.exe.config
+D:\Курси програмування\Oleg Lobay\C#\pt 20\dhbvdshvfhsd\dhbvdshvfhsd\bin\Debug\dhbvdshvfhsd.exe
+D:\Курси програмування\Oleg Lobay\C#\pt 20\dhbvdshvfhsd\dhbvdshvfhsd\bin\Debug\dhbvdshvfhsd.pdb
+D:\Курси програмування\Oleg Lobay\C#\pt 20\dhbvdshvfhsd\dhbvdshvfhsd\obj\Debug\dhbvdshvfhsd.csproj.AssemblyReference.cache
+D:\Курси програмування\Oleg Lobay\C#\pt 20\dhbvdshvfhsd\dhbvdshvfhsd\obj\Debug\dhbvdshvfhsd.csproj.CoreCompileInputs.cache
+D:\Курси програмування\Oleg Lobay\C#\pt 20\dhbvdshvfhsd\dhbvdshvfhsd\obj\Debug\dhbvdshvfhsd.exe
+D:\Курси програмування\Oleg Lobay\C#\pt 20\dhbvdshvfhsd\dhbvdshvfhsd\obj\Debug\dhbvdshvfhsd.pdb

@@ -1,0 +1,7 @@
+D:\Курси програмування\Oleg Lobay\C#\pt12\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+D:\Курси програмування\Oleg Lobay\C#\pt12\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+D:\Курси програмування\Oleg Lobay\C#\pt12\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+D:\Курси програмування\Oleg Lobay\C#\pt12\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+D:\Курси програмування\Oleg Lobay\C#\pt12\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\Курси програмування\Oleg Lobay\C#\pt12\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+D:\Курси програмування\Oleg Lobay\C#\pt12\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb

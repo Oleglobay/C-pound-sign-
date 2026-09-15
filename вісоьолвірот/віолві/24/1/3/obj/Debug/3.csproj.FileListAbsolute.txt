@@ -1,0 +1,13 @@
+D:\Курси програмування\Шевчук Микола\C#\24\1\3\obj\Debug\3.csproj.AssemblyReference.cache
+D:\Курси програмування\Шевчук Микола\C#\24\1\3\obj\Debug\_1.Form1.resources
+D:\Курси програмування\Шевчук Микола\C#\24\1\3\obj\Debug\_1.Form2.resources
+D:\Курси програмування\Шевчук Микола\C#\24\1\3\obj\Debug\_1.Form3.resources
+D:\Курси програмування\Шевчук Микола\C#\24\1\3\obj\Debug\_1.Form4.resources
+D:\Курси програмування\Шевчук Микола\C#\24\1\3\obj\Debug\_3.Properties.Resources.resources
+D:\Курси програмування\Шевчук Микола\C#\24\1\3\obj\Debug\3.csproj.GenerateResource.cache
+D:\Курси програмування\Шевчук Микола\C#\24\1\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+D:\Курси програмування\Шевчук Микола\C#\24\1\3\bin\Debug\3.exe.config
+D:\Курси програмування\Шевчук Микола\C#\24\1\3\bin\Debug\3.exe
+D:\Курси програмування\Шевчук Микола\C#\24\1\3\bin\Debug\3.pdb
+D:\Курси програмування\Шевчук Микола\C#\24\1\3\obj\Debug\3.exe
+D:\Курси програмування\Шевчук Микола\C#\24\1\3\obj\Debug\3.pdb
